@@ -53,7 +53,7 @@ def promote(bot: Bot, update: Update, args: List[str]) -> str:
                           can_pin_messages=bot_member.can_pin_messages,
                           can_promote_members=bot_member.can_promote_members)
 
-    message.reply_text("promoted🧡")
+    message.reply_text("👍അഡ്മിൻ ആക്കിയിട്ടുണ്ട്...")
     return "<b>{}:</b>" \
            "\n#PROMOTED" \
            "\n<b>Admin:</b> {}" \
@@ -227,7 +227,7 @@ __help__ = """
  - /demote: demotes the user replied to
 """
 
-__mod_name__ = "🧡Admin🧡"
+__mod_name__ = "Group Admin Promote etc"
 
 PIN_HANDLER = CommandHandler("pin", pin, pass_args=True, filters=Filters.group)
 UNPIN_HANDLER = CommandHandler("unpin", unpin, filters=Filters.group)
