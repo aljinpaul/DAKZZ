@@ -18,16 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey there! My name is Mr Mysterious 
-I'm here to help you manage your groups!
+Hey there! My name is Wonder Woman - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
- - /help: help....
- - /donate: To find out more about donating!
-
-Want to add me to your Group? [Click here!](http://telegram.me/PsYcHo_DakZz_BoT?startgroup=botstart)
+Want to add me to your Chat? [Click here!](http://telegram.me/PsYcHo_DakZz_BoT?startgroup=botstart)
 
 My Orginal code is available to you here
-Contact [ABBAS MHD SALIM](https://t.me/ABBASMHDSALIM)
+Contact [ABBAS MHD SALIM](t.me/ABBASMHDSALIM)
 
 """
 
