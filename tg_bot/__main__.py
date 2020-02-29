@@ -18,14 +18,14 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey there! My name is Chachu  - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hey there! My name is jhonny   - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
-Created by @Examzoneshazu
+Created by @aljinpaul
 
 Want to add me to your Chat? [Click here!](http://telegram.me/WONDERWOMEN_TG_BOT?startgroup=botstart)
 
 My Orginal code is available to you here
-Contact [ABBAS MHD SALIM](t.me/ABBASMHDSALIM)
+Contact [ALJIN PAUL](t.me/aljinpaul)
 
 """
 
@@ -49,7 +49,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/ABBASMHDSALIM) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](https://t.me/ABBASMHDSALIM)."""
+There are two ways of paying him; [paytm](https://t.me/aljinpaul)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
