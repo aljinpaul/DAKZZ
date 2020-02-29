@@ -22,7 +22,7 @@ Hey there! My name is jhonny   - I'm here to help you manage your groups! Hit /h
 
 Created by @aljinpaul
 
-Want to add me to your Chat? [Click here!](http://telegram.me/WONDERWOMEN_TG_BOT?startgroup=botstart)
+Want to add me to your Chat? [Click here!](http://telegram.me/Johnny_Ser_bot?startgroup=botstart)
 
 My Orginal code is available to you here
 Contact [ALJIN PAUL](t.me/aljinpaul)
